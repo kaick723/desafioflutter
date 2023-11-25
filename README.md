@@ -10,9 +10,9 @@
 
 ### Como foi testado
 
-...
+
   #### esse trecho que está no final do codigo executa o teste 
-  
+...   
   const result = sumMultiplesOf3and5(10);//aqui com o numero 10
   console.log(result); 
   
